@@ -1,14 +1,18 @@
-📰 Taaza Khabar
-Taaza Khabar is a Flutter-powered news application that fetches real-time news updates using the NewsAPI.org service. It provides a clean and user-friendly interface to browse the latest headlines, search for news, and explore different categories.
+# 📰 Taaza Khabar:
 
-📱 Features
-✅ Fetches real-time news from NewsAPI
-✅ Categorized news sections (Technology, Business, Sports, etc.)
-✅ Search functionality to find specific news
-✅ Smooth UI with animations
+Taaza Khabar is a Flutter-powered news application that fetches real-time news updates using the NewsAPI.org service. With a clean, user-friendly interface, users can easily browse the latest headlines, search for news articles, and explore different categories.
 
-🔹 Installation
-Clone the repository or Download Pre-release Apk.
+# 📱 Features:
 
-🔹 Beta Version - Feedback Welcome!
-Let me know if you need any modifications! 🚀🔥
+- Fetches real-time news from NewsAPI
+- Categorized news sections (e.g., Technology, Business, Sports, etc.)
+- Search functionality to find specific news
+- Smooth UI with engaging animations
+
+# 🔹 Installation
+
+Clone the repository or download the pre-release apk to check it
+
+# 🔹 Beta Version - Feedback Welcome!
+
+We'd love to hear your feedback and suggestions for improvements. Let us know if you need any modifications! 🚀🔥
