@@ -15,4 +15,4 @@ Clone the repository or download the pre-release apk to check it
 
 # 🔹 Beta Version - Feedback Welcome!
 
-We'd love to hear your feedback and suggestions for improvements. Let us know if you need any modifications!🚀🔥
+We'd love to hear your feedback and suggestions for improvements.Let us know if you need any modifications!🚀🔥
